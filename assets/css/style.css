@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h3::first-letter {
+    color: #00796b;
+    font-size: 3em;
+
+}
+
+{
+    color: #4FC3F7
+}
+
+ul{
+    margin-left: 30px;
+}
+
+ul li ::
+
+ul li :first-of-type::first-letter{
+    color: #4fc3f7;
+
+
+}
